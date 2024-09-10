@@ -1,0 +1,5 @@
+ADMIN@DESKTOP-6LS9JRD MINGW64 /d/GitProject (main)
+$ git push -u origin main
+remote: Permission to chaitrika0011/GitProject.git denied to LalithKumarRagula.
+fatal: unable to access 'https://github.com/chaitrika0011/GitProject.git/': The 
+requested URL returned error: 403
